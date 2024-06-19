@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "/var/lib/jenkins/workspace/autoupdate_image/repo"  // Adjust this path as per your project structure
+    "test": "mocha"
   },
   "author": "Adem Cemil YALCIN",
   "license": "ISC",
