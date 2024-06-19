@@ -5,20 +5,15 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Adem Cemil YALCIN",
   "license": "ISC",
   "dependencies": {
-    "express":"latest",
-    "ejs":"latest"
-  },
-  "name": "sample-node-project",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "mocha"
+    "express": "latest",
+    "ejs": "latest"
   },
   "devDependencies": {
-    "mocha": "^x.x.x"  // Ensure mocha is listed in devDependencies
+    "mocha": "^8.5.0"  // Replace with the version of mocha you want to use, e.g., "^8.5.0"
   }
 }
