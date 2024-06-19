@@ -14,6 +14,6 @@
     "ejs": "latest"
   },
   "devDependencies": {
-    "mocha": "10.4.0"  // Update to a version that is available
+    "mocha": "10.4.0"
   }
 }
