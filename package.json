@@ -17,5 +17,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^x.x.x"  // Ensure mocha is listed in devDependencies
   }
 }
